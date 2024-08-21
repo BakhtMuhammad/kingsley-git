@@ -6,3 +6,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 [Italy boot, Madagascar shoe, Norway spoon, Cuba VacumCleaner]
 "Svalbard Vault, Mariana Trench, Mount Everest"
 This repository is built step by step in the tutorial.
+A line added from local git or vs code to while active on the 'update-readme' branch
